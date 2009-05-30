@@ -1,0 +1,76 @@
+allspice
+allspice, ground
+allspice, whole
+anise, star whole
+basil
+bay leaves
+caraway seed
+cardamom
+    cardamom pods, black 
+cardamom pods, green 
+cardamom seeds, green 
+celery seed (lovage)
+chili pepper
+chili pepper, ancho, whole dried
+chili pepper, arbol, whole dried
+chili pepper, cascabel, whole dried
+chili pepper, cayenne, ground
+chili pepper, chipotle, whole
+chili pepper, crushed
+chili pepper, NM, whole dried
+chili powder, some like it hot
+chinese five spice powder
+cinnamon
+    cinnamon sticks
+    cinnamon, ground
+clove
+clove, ground
+clove, whole
+coriander
+coriander, ground
+coriander, seed
+cumin
+cumin seed
+cumin seed, black
+curry
+curry leaves
+curry, alton brown recipe
+dill weed
+fennel
+fenugreek
+fenugreek leaves
+fenugreek seed
+garam masala
+garlic
+garlic powder
+garlic, granulated
+ginger
+ginger, dried
+ginger, ground
+mace
+mustard
+mustard seed, black
+mustard seed, yellow 
+mustard, ground yellow
+nutmeg, whole
+onion
+onion powder
+onion seed, black
+oregano
+    oregano
+    oregano, mexican
+paprika
+    paprika, andalusian sweet
+paprika, hot hungarian
+peppercorn
+peppercorn, black (tellicherry)
+peppercorn, green
+peppercorn, pink
+peppercorn, white
+rosemary, whole
+saffron
+thyme, whole
+turmeric
+turmeric, ground
+turmeric, whole
+
