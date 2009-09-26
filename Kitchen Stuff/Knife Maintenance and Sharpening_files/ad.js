@@ -1,0 +1,4 @@
+var a=new Date();var q='&tz='+a.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&ref='+escape(document.referrer.substr(0,255)) +'&uri='+escape(document.URL.substr(0,255)) +'&x=0.0060410499572754';var c='';
+c+='<'+'a href="http://g.adspeed.net/ad.php?do=clk&aid=68435&zid=7889&t=1254000758&auth=E7F9232543" target="_top" ><'+'img style="border:0px;" src="http://egullet.org/banners/bannerlard.jpg" alt="i" /><'+'/a>';
+document.write(c);
+document.write('<div style="position:absolute;left:0px;top:0px;visibility:hidden;"><img src="http://g.adspeed.net/ad.php?do=imp&zid=7889&aid=68435&auth=E7F9232543&wd=-1&ht=-1&target=_top&t=1254000758'+q+'" alt="i" width="1" height="1" /></div>');
