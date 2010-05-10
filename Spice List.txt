@@ -1,76 +1,99 @@
 allspice
-allspice, ground
-allspice, whole
+    allspice, ground
+    allspice, whole
 anise, star whole
+barbecue rub powder
 basil
+    basil
+    basil, thai
 bay leaves
 caraway seed
 cardamom
     cardamom pods, black 
-cardamom pods, green 
-cardamom seeds, green 
-celery seed (lovage)
-chili pepper
-chili pepper, ancho, whole dried
-chili pepper, arbol, whole dried
-chili pepper, cascabel, whole dried
-chili pepper, cayenne, ground
-chili pepper, chipotle, whole
-chili pepper, crushed
-chili pepper, NM, whole dried
-chili powder, some like it hot
+    cardamom pods, green 
+    cardamom seeds, green 
+chili pepper (whole dried)
+    chili pepper, aji Amarillo
+    chili pepper, ancho
+    chili pepper, arbol
+    chili pepper, cascabel
+    chili pepper, cayenne, ground
+    chili pepper, chipotle
+    chili pepper, chipotle, brown
+    chili pepper, crushed
+    chili pepper, guajillo
+    chili pepper, habanero
+    chili pepper, New Mexico
+    chili pepper, pasilla
+    chili pepper, red Indian
+    chili pepper, serrano
+chili powder 
+    chili powder, red Indian
+    chili powder, some like it hot
 chinese five spice powder
+cilantro
 cinnamon
     cinnamon sticks
     cinnamon, ground
 clove
-clove, ground
-clove, whole
+    clove, ground
+    clove, whole
 coriander
-coriander, ground
-coriander, seed
+    coriander, ground
+    coriander, seed
 cumin
-cumin seed
-cumin seed, black
+    cumin seed
+    cumin seed, black
+    cumin seed, ground
 curry
-curry leaves
-curry, alton brown recipe
+    curry leaves
+    curry masala
+    curry, alton brown recipe
 dill weed
 fennel
 fenugreek
-fenugreek leaves
-fenugreek seed
+    fenugreek leaves
+    fenugreek seed
+galangal
 garam masala
 garlic
-garlic powder
-garlic, granulated
+    garlic powder
+    garlic, granulated
 ginger
-ginger, dried
-ginger, ground
+    ginger, dried
+    ginger, ground
+kaffir lime leaves
 mace
+mint
 mustard
-mustard seed, black
-mustard seed, yellow 
-mustard, ground yellow
-nutmeg, whole
-onion
+    mustard seed, black
+    mustard seed, yellow 
+    mustard, ground yellow
+nutmeg
+    nutmeg, ground
+    nutmeg, whole
 onion powder
-onion seed, black
 oregano
     oregano
     oregano, mexican
 paprika
     paprika, andalusian sweet
-paprika, hot hungarian
+    paprika, hot hungarian
 peppercorn
-peppercorn, black (tellicherry)
-peppercorn, green
-peppercorn, pink
-peppercorn, white
+    peppercorn, black (tellicherry)
+    peppercorn, green
+    peppercorn, pink
+    peppercorn, white
+pomegranate seed
 rosemary, whole
 saffron
 thyme, whole
 turmeric
-turmeric, ground
-turmeric, whole
+    turmeric, ground
+    turmeric, whole
+
+Discontinued
+
+celery seed (lovage)
+onion seed, black
 
