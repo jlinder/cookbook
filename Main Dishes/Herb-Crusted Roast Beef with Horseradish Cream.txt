@@ -4,15 +4,15 @@ Herb-Crusted Roast Beef with Horseradish Cream
 
 Ingredients:
 
-  - 1 (3-pound) boneless beef eye round roast
-  - Salt and freshly ground black pepper
-  - 1/2 cup plus 2 tablespoons vegetable oil
-  - 5 cloves garlic
-  - 1 bunch parsley, leaves only
-  - 1/2 bunch fresh thyme, leaves only
-  - 8 sprigs fresh oregano, leaves only 2 sprigs fresh rosemary, leaves only
-  - 2 tablespoons mustard powder
-  - Horseradish Cream, recipe follows
+  1 (3-pound) boneless beef eye round roast
+  Salt and freshly ground black pepper
+  1/2 cup plus 2 tablespoons vegetable oil
+  5 cloves garlic
+  1 bunch parsley, leaves only
+  1/2 bunch fresh thyme, leaves only
+  8 sprigs fresh oregano, leaves only 2 sprigs fresh rosemary, leaves only
+  2 tablespoons mustard powder
+  Horseradish Cream, recipe follows
 
 Directions
 
@@ -26,7 +26,6 @@ Rub paste all over roast. Bake in the oven until the roast is cooked to medium-r
 
 Let roast rest 10 minutes before slicing and serve with Horseradish Cream.
 
-
 Horseradish Cream:
 
   - 1/2 cup sour cream
@@ -37,3 +36,4 @@ Horseradish Cream:
     ready to serve.
 
 Yield: 1/2 cup
+--

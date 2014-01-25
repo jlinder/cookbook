@@ -6,22 +6,22 @@ Masaman Curry is an Indian influenced dish that is very popular here in the US. 
 
 INGREDIENTS
  
-3 tbsp       masaman curry paste
-3/4 - 1 cup  coconut milk
-1 lb         chicken / beef / pork / ?
-1 1/2 tbsp   brown sugar
-1 tbsp       tamarind
-1/2 tbsp     salt
-1            cinnamon stick
-2            bay leaves
-3/16 tsp     cayenne pepper
-~ 1/2 tsp    ground cumin
-~ 1/2 tsp    ground ginger
-~ 1/2 tsp    ground corriander
-~ 1/2 tsp    cardamam seed (ground in mortar and pestel
-1 med-large  onion
-1            potato russet potato
-1/2 cup      cashew
+  3 tbsp       masaman curry paste
+  3/4 - 1 cup  coconut milk
+  1 lb         chicken / beef / pork / ?
+  1 1/2 tbsp   brown sugar
+  1 tbsp       tamarind
+  1/2 tbsp     salt
+  1            cinnamon stick
+  2            bay leaves
+  3/16 tsp     cayenne pepper
+  ~ 1/2 tsp    ground cumin
+  ~ 1/2 tsp    ground ginger
+  ~ 1/2 tsp    ground corriander
+  ~ 1/2 tsp    cardamam seed (ground in mortar and pestel
+  1 med-large  onion
+  1            potato russet potato
+  1/2 cup      cashew
 
 DIRECTIONS
 
@@ -32,3 +32,4 @@ Heat coconut milk and masaman curry paste in a pot over medium to low heat and s
 Add half a cup of water or enough cover all the meat.  Add the sugar, tamarind, salt and spices.  Stew for 15-30 minutes or until meat is getting tender.
 
 Add potatoes, onion and cashews.  Let simmer for 20 minutes more.  The liquid should be reduced and you should be able to see some chunks.  But, if the liquid is very low, add more water.
+--

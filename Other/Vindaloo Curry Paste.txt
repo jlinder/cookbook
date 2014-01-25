@@ -1,8 +1,8 @@
 http://www.threetastes.com/blog/blog_files/vindaloo.php
 
-VINDALOO CURRY PASTE
+Vindaloo Curry Paste
 
-INGREDIENTS
+Ingredients
 
     Tamarind
       Either
@@ -25,7 +25,7 @@ INGREDIENTS
     4 curry leaves
     1 TBL. brown sugar
 
-DIRECTIONS
+Directions
 
 If using tamarind pulp, start pulp preparation.
 
@@ -34,3 +34,4 @@ In a saute pan, melt butter and gently fry onions about 7 minutes over low heat.
 Meanwhile, press tamarind mixture through sieve and extract as much liquid as possible. Add tamarind juice to sauce, and cook another 10 minutes. Taste - it should be tart and lightly sweet and hot (peppery).
 
 Puree sauce in blender or with hand/stick blender.  Add a little water if it is too thick.
+--

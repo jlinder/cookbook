@@ -4,15 +4,15 @@ Easy Lemon Pasta with Chicken
 
 Ingredients
 
-    * 1 pound dried penne
-    * 2 chicken cutlets, cut into fingers
-    * Salt and freshly ground black pepper
-    * 3 cloves garlic, sliced
-    * 1/4 teaspoon red pepper flakes
-    * 3 tablespoons olive oil
-    * 3 tablespoons roughly chopped fresh parsley, for garnish
-    * 2 lemons, juiced
-    * 1/2 cup grated Parmesan
+  1 pound dried penne
+  2 chicken cutlets, cut into fingers
+  Salt and freshly ground black pepper
+  3 cloves garlic, sliced
+  1/4 teaspoon red pepper flakes
+  3 tablespoons olive oil
+  3 tablespoons roughly chopped fresh parsley, for garnish
+  2 lemons, juiced
+  1/2 cup grated Parmesan
 
 Directions
 
@@ -30,5 +30,4 @@ together.
 Remove pasta to a large bowl. Add chicken to the warm pasta and season with 
 salt and pepper. Sprinkle in chopped parsley. Add the juice of 2 lemons and 
 mix. Before serving top with Parmesan.
-
-
+--

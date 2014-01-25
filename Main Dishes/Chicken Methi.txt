@@ -1,14 +1,13 @@
 http://www.sanjeevkapoor.com/Recipe.aspx?RecipeId=525&Header=Indian%20Recipe&MenuId=28
 
 CHICKEN METHI
-Sun dried fenugreek leaves gives this chcken dish an aromatic taste.
  
 Ingredients
  	 
    1.5 lbs    Chicken
    3 medium   Onions
    2" piece   Ginger
-   3          Green chillis
+   3          Green chilis
    a few      Fresh coriander leaves
    2 tbsp     Oil
    2 leaves   Bay leaves
@@ -19,14 +18,14 @@ Ingredients
    5          Black peppercorns
    2 tbsp     Garlic paste
    1/2 tsp    Turmeric powder
-   1/2 tsp    Red chilli powder
+   1/2 tsp    Red chili powder
    1 tbsp     Coriander powder
    1 cup      Yogurt
    2 tbsp     Dry fenugreek leaves (kasuri methi)
    1 tsp      Garam masala powder
-   to taset   Salt
+   to taste   Salt
  
-Directions:
+Directions
  
 Clean, skin, wash and cut chicken into medium sized pieces.
 
@@ -34,6 +33,7 @@ Peel, wash and chop onions. Peel, wash and chop ginger. Remove stems, wash and c
 
 Heat oil in a pan. Add bay leaves, green cardamoms, black cardamoms, cloves, cinnamon and peppercorns. Saute until cardamoms start to crackle.
 
-Add onions and cook until translucent and soft. Make sure to stir continuously. Add ginger, garlic paste, turmeric powder, red chilli powder, coriander powder and chopped green chillies. Saute for a minute.
+Add onions and cook until translucent and soft. Make sure to stir continuously. Add ginger, garlic paste, turmeric powder, red chili powder, coriander powder and chopped green chillies. Saute for a minute.
 
 Add chicken pieces and beaten yogurt and cook on high heat for seven to eight minutes. Add kasoori methi and three-fourth cup of water. Cover the pan and cook on low heat for ten minutes. Add garam masala powder, salt and mix properly. Serve hot garnished with chopped fresh coriander leaves.
+--
