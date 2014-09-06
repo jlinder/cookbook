@@ -4,10 +4,10 @@ Redder Than Red Cranberry Sauce
 
 Ingredients
 
-12-ounce package cranberries
-1 cup superfine sugar
-1/4 cup cherry brandy
-1/3 cup water
+  12-ounce package cranberries
+  1 cup superfine sugar
+  1/4 cup cherry brandy
+  1/3 cup water
 
 Directions
 
@@ -16,5 +16,4 @@ What can I tell you?  Put everything in a pan, bring to a boil and let bubble aw
 If you cook this in advance it will chunk up a lot, so just thrash it through with a fork before serving.
 
 Excerpted from “Feast: Food to Celebrate Life,” by Nigella Lawson. Copyright © by Nigella Lawson. Published by Hyperion Books. All rights reserved. No part if this excerpt can be used without permission of the publisher.
-
 --

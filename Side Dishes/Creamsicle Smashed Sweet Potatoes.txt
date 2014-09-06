@@ -4,15 +4,15 @@ Creamsicle Smashed Sweet Potatoes
 
 Ingredients
 
-    * 4 pounds sweet potatoes (about 6 large)
-    * 1/2 cup orange juice
-    * 1/2 cup heavy cream
-    * 4 tablespoons (1/2 stick) unsalted butter, melted
-    * 1/4 cup light brown sugar
-    * 1 teaspoon ground nutmeg
-    * 1/2 teaspoon ground cinnamon
-    * 2 teaspoons kosher salt
-    * 1 teaspoon freshly ground black pepper
+  4 pounds sweet potatoes (about 6 large)
+  1/2 cup orange juice
+  1/2 cup heavy cream
+  4 tablespoons (1/2 stick) unsalted butter, melted
+  1/4 cup light brown sugar
+  1 teaspoon ground nutmeg
+  1/2 teaspoon ground cinnamon
+  2 teaspoons kosher salt
+  1 teaspoon freshly ground black pepper
 
 Directions
 
@@ -21,3 +21,4 @@ Preheat the oven to 375 degrees F.
 Scrub the potatoes, prick them several times with a knife or fork, and bake them for 1 hour or until very soft when pierced with a knife. Remove from the oven and scoop out the insides as soon as they are cool enough to handle. Place the sweet potato meat into the bowl of an electric mixer fitted with a paddle attachment and add the orange juice, cream, butter, brown sugar, nutmeg, cinnamon, salt, and pepper. Mix together until combined but not smooth and transfer to a baking dish.
 
 Bake the potatoes for 20 to 30 minutes, until heated through.
+--

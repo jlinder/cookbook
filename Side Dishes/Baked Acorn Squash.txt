@@ -1,8 +1,8 @@
 Baked Acorn Squash with Apple Stuffing
 
-INGREDIENTS:
+Ingredients
 
-    Filling:
+  Filling:
     2 small    apples, diced
     2 tbsp     celery, diced
     2 tsp      onion, minced
@@ -11,14 +11,14 @@ INGREDIENTS:
     1/4 tsp    nutmeg, ground
     to taste   salt
 
-    The Squash:
+  The Squash:
     1 medium       acorn squash
     1 tbsp         butter, melted
     a few pinches  cinnamon
     a few pinches  nutmeg
     to taste       salt
 
-DIRECTIONS:
+Directions
 
 1. Preheat oven to 400 degrees
 
@@ -29,3 +29,4 @@ DIRECTIONS:
 4. Place the squash into a baking dish, cut side up.  Pour about 1/2" of water into the dish around the squash (to prevent the squash from burning).  
 
 5. Bake for 30 minutes covered in foil.  Remove foil and bake for an additional 20 minutes or until squash is tender.
+--
